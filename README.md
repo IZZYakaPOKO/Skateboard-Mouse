@@ -28,4 +28,10 @@ nokia phoneとventureトラックを用いた場合
 
 
 ![image.jpeg](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/image.jpeg)
+12/24
+映像と音楽等でイメージを提示する。
+
+映像がまだ上がってこないので、音楽を先に示しておく。
+
+[slooow_demo.mp3](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/slooow_demo.mp3)
 ---
