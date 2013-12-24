@@ -33,5 +33,8 @@ nokia phoneとventureトラックを用いた場合
 
 映像がまだ上がってこないので、音楽を先に示しておく。
 
-[slooow_demo.mp3](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/slooow_demo.mp3)
+
+
+[slow_class.mp3](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/slow_class.mp3)
+また映像面においても、音楽面においても、この素材を元にコンセプトが伝わるような、工夫を考える。
 ---
