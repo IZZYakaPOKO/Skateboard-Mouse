@@ -26,5 +26,6 @@ nokia phoneとventureトラックを用いた場合
 
 ![image-2.jpeg](https://raw.github.com/IZZYakaPOKO/open-source-mouse/master/gitfab/resources/image-2.jpeg)
 
-![image.jpeg](https://raw.github.com/IZZYakaPOKO/open-source-mouse/master/gitfab/resources/image.jpeg)
+
+![image.jpeg](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/image.jpeg)
 ---
