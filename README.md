@@ -49,4 +49,12 @@ nokia phoneとventureトラックを用いた場合
 [slow_class.mp3](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/slow_class.mp3)
 
 また映像面においても、音楽面においても、この素材を元にコンセプトが伝わるような、工夫を考える。
+
+[design_strategy.m4v](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/design_strategy.m4v)
+
+プロモション動画
+---
+#
+---
+#
 ---
