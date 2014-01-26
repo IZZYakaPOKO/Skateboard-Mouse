@@ -54,9 +54,10 @@ nokia phoneとventureトラックを用いた場合
 
 プロモション動画
 
-
----
-#
-
 [design_strategy_revised.m4v](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/design_strategy_revised.m4v)
+
+プロモーション動画の改訂版を公開。
+
+なおこのプロジェクトはオープンに公開し、皆の協力を得ながら、完成されることを目的とし、誰でも自由にアクセスできるものとする。
+
 ---
