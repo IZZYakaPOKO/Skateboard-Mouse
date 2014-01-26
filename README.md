@@ -53,8 +53,10 @@ nokia phoneとventureトラックを用いた場合
 [design_strategy.m4v](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/design_strategy.m4v)
 
 プロモション動画
+
+
 ---
 #
----
-#
+
+[design_strategy_revised.m4v](https://raw.github.com/IZZYakaPOKO/Skateboard-Mouse/master/gitfab/resources/design_strategy_revised.m4v)
 ---
